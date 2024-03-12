@@ -1,0 +1,34 @@
+---
+title: "Lettre de demande de stage"
+author: "Yihui Xie"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: true
+paged-footnotes: true
+knit: pagedown::chrome_print
+---
+::: from
+Mlle Fogwoung Sarah-Laure  
+Ouagou Niayes, Dakar  
++221 70 696 91 54                          
+Email: fogwoungsarahlaure@gmail.com   
+:::
+Hiring Manager
+
+Agence Nationale de la Statistique et de la Démograhie
+
+::: date
+March 12th, 2024
+:::
+Dear Hiring Manager,
+
+Dear Sir/Madam,
+As a second-year student in the ISEP program, I am writing to request an eight-week immersion internship within your department from July to September.
+I would like to inform you, Mr./Ms. Director, that as part of our program, we are required to complete a mandatory internship in a statistical field. This requirement is the basis for my request. Additionally, this internship will allow me to produce a report, the grade of which will be considered in the final evaluation. Furthermore, it will be an opportunity for me to apply the theoretical knowledge acquired at school, better understand communication in the workplace, and practice working in teams within your organization.
+I hope that my request will be processed promptly and that your response will be favorable. Please accept, Mr./Ms. Director, my sincere gratitude.
+
+Yours sincerely,
+
+Fogwoung Sarah-Laure  
+ 
