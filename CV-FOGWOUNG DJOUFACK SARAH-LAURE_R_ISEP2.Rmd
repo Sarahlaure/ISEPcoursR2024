@@ -1,0 +1,204 @@
+---
+title: "Lijia Yu's resume"
+author: Lijia Yu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![](images/IMG-20230905-WA0032.jpg)
+
+
+CONTACT {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> fogwoungsarahlaure@gmail.com
+- <i class="fa fa-github"></i> [fogwoungsarahlaure@gmail.com/Sarahlaure](https://github.com/Sarahlaure)
+- <i class="fa fa-phone"></i> +221 70 696 91 54
+
+
+
+PROFIL {#skills}
+--------------------------------------------------------------------------------
+
+- Elève statisticienne économiste à l'Ecole Nationale de la Statistique et de l'Analyse Economique Pierre Ndiaye(ENSAE). 
+
+- Compétente et polyvalente, toujours prete à se former, acquerir de nouvelles connaissances et à developper ses compétences.
+
+- Adepte du travail bien fait.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+
+Main
+================================================================================
+
+FOGWOUNG DJOUFACK SARAH-LAURE {#title}
+--------------------------------------------------------------------------------
+
+## ELEVE STATISTICIENNE ECONOMISTE 
+
+Actuellement en recherche d'un stage d'immersion dans le cadre de ma formation.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### GROUPE SCOLAIRE BILINGUE DORCAS 
+
+Enseignement primaire
+
+Yaounde, Cameroun
+
+2006-2014
+
+CEP: Certificat d'Etudes Primaires (équivalent du CEE)
+
+
+### COLLEGE JEAN TABI 
+
+Premier Cycle d'enseignement secondaire
+
+Yaounde, Cameroun
+
+2014-2018
+
+BEPC: Brevet d'Etudes du Premier Cycle (Mention Très-Bien)
+
+
+### COLLEGE JEAN TABI 
+
+Second Cycle d'enseignement secondaire
+
+Yaounde, Cameroun
+
+2018-2020
+
+Probatoire : Mention Très-Bien
+
+
+### COLLEGE JEAN TABI 
+
+Second Cycle d'enseignement secondaire
+
+Yaounde, Cameroun
+
+2020-2021
+
+BAC: Mention Très-Bien
+
+
+### ECOLE NATIONALE SUPERIEURE POLYTECHNIQUE DE YAOUNDE 
+
+Cycle MSP
+
+Yaounde, Cameroun
+
+2022
+
+BEPC: Brevet d'Etudes du Premier Cycle (Mention Très Bien)
+
+
+### ECOLE NATIONALE DE LA STATISTIQUE ET DE L'ANALYSE ECONOMIQUE 
+
+Etudiante 2e année 
+
+Dakar, Senegal
+
+2022-Maintenant
+
+
+
+
+EXPERIENCE PROFESSIONNELLE {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Agent pour le dépouillement
+
+AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE(ANSD)
+
+Dakar,Senegal
+
+2022-2023
+
+::: concise
+Participation au depouillement dans le cadre du recencement des agents recenseurs our le RGPH-5 .
+:::
+
+### Enquetrice
+
+Enquetre pedagogique sur les ménages de Thiaroye par l'Ecole nationale de la Statistique et de l'Analyse economique Pierre Ndiaye.
+
+Dakar, Senegal
+
+2022 - 2023
+
+### Chargée à l'organisation 
+
+Commission des femmes de l'Ecole nationale de la Statistique et de l'Analyse economique Pierre Ndiaye.
+
+Dakar, Senegal
+
+2022 - 2023
+
+::: concise
+Planification et organisation des activités scolaires et evenements de l'association.
+:::
+
+### Secretaire Generale  
+
+Bureau de la statistique de l'Ecole nationale de la Statistique et de l'Analyse economique Pierre Ndiaye.
+
+Dakar, Senegal
+
+2022 - 2023
+
+::: concise
+Chargée de traiter et archiver les documents du bureau. Veiller également à l'application des orientations décidées.
+:::
+
+### Community Manager et Secretaire chargée à la communication
+
+Amicale des Etudiants et Stagiaires de l'Ecole nationale de la Statistique et de l'Analyse economique Pierre Ndiaye.
+
+Dakar, Senegal
+
+2023 - 2024
+
+::: concise
+Gestion des comptes et pages de l'école et assurer la diffusion des messages des membres de l'administration aux étudiants de l'école. 
+:::
+
+### Co-responsable technique
+
+Club leadership de l'Ecole nationale de la Statistique et de l'Analyse economique Pierre Ndiaye.
+
+Dakar, Senegal
+
+2023 - 2024
+
+::: concise
+Gestion de l'application machine lors des matchs de culture générale organisé par le club. 
+:::
+
+COMPETENCES {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+#### Organisation - Innovation - Esprit d'équipe - Créativité - Communication
+
+LOGICIELS {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+#### Python -Stata - SPSS - QGIS - WORD - EXCEL -VBA - ODK -PHOTOSHOP - CANVA
