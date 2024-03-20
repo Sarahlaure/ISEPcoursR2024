@@ -53,7 +53,7 @@ edit(cereales$classCereal_RizKg)
 
 ## Essayons de merger la base cereale avec la table de conversion 
 library(haven)
-table_de_conversion <- read_csv2(paste0("C:\\Users\\HP\\OneDrive\\1231116193333-Desktop\\Desktop\\ISEPcoursR2024\\Exos_Céréales\\Table_de_conversion_phase_2.csv"))  #read_csv2 car le séparateur de champ de mon fichier csv est le point-virgule
+table_de_conversion <- read_csv2(paste0("E:/ISEP 2/MON DOSSIER/SEMESTRE 2/TRAITEMENTS STATISTIQUES AVEC R/DOC EHCVM/Table_de_conversion_phase_2_1.xlsx"))
 View(table_de_conversion)
 
 ##-Supprimons les variables creees lors de l'importation
